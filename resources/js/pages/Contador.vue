@@ -8,7 +8,7 @@ import { ref } from 'vue';
 // Breadcrumbs
 const breadcrumbs: BreadcrumbItem[] = [
   {
-    title: 'Dashboard',
+    title: 'CONTADOR PA 😎',
     href: dashboard().url,
   },
 ];
@@ -29,7 +29,7 @@ const reset = () => contador.value = 0;
       
       <!-- Título -->
       <h1 class="text-5xl md:text-6xl font-extrabold text-purple-700 mb-12 tracking-tight">
-        Contador
+        Contador 😎
       </h1>
 
       <!-- Número gigante -->
